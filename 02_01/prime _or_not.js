@@ -1,4 +1,4 @@
-let num = 11
+let num = 3
 let isPrime = true;
 
 if (num <= 1) {
