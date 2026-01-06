@@ -1,3 +1,13 @@
+/*
+5.Print pattern program for
+
+*****
+****
+***
+**
+*
+
+*/
 let n = 5;
 let pattern = "";
 for (let i = n; i >= 1; i--) {

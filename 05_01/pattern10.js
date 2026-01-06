@@ -1,3 +1,14 @@
+/*
+
+10.Print Pattern Program 
+
+    1
+   212
+  32123
+ 4321234
+543212345
+
+*/
 let n = 5;
 let pattern = "";
 

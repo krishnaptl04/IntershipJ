@@ -1,3 +1,14 @@
+/*
+
+9.Print pattern program
+
+    *
+   **
+  ***
+ ****
+*****
+
+*/
 let n = 5;
 let pattern = "";
 

@@ -1,3 +1,14 @@
+/*
+4.Print pattern program for
+
+12345
+1234
+123
+12
+1
+
+*/
+
 let n = 5;
 let pattern = "";
 for (let i = n; i >= 1; i--) {

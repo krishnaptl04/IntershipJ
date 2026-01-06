@@ -1,3 +1,14 @@
+/*
+7.Print Pattern program for 
+
+    1
+   21
+  321
+ 4321
+54321
+
+*/
+
 let n = 5;
 let pattern = "";
 for (let i = 1; i <= n; i++) {
