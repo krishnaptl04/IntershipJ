@@ -1,15 +1,3 @@
-/*
-
-6.Print Pattern program for 
-
-1
-2 3
-4 5 6
-7 8 9 10
-11 12 13 14 15
-
-*/
-
 let n = 4;
 let num = 1;
 let pattern = "";
@@ -20,9 +8,3 @@ for (let i = 1; i <= n; i++) {
     pattern = pattern + "\n";
 }
 console.log(pattern);
-
-// num=1
-// pattern="" i=1;1<=5
-// j=1;1<1
-// pattern="" +1
-// j=2;2<1
