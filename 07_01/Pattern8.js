@@ -22,5 +22,6 @@ for (let i = 1; i <= n; i++) {
 line=""
 space=1;1<=5-1
 line=""""""""
-num=1;num<=1;num++*/
+num=1;num<=1;num++//1
+*/
 

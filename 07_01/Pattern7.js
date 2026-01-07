@@ -35,7 +35,7 @@ line="space"+"space"
 space=3;3<=5-1
 line="space"+"space"+"space"
 space=4;4<=5-1
-line="space"+"space"+"space"+"sapce"
+line="space"+"space"+"space"+"space"
 sapce=5;5<=5-1
 num=1;1>=1;
 line= "space"+"space"+"space"+"space"+1  //  1
