@@ -12,10 +12,10 @@ let n = 5;
 
 for (let i = 1; i <= n; i++) {
     let line = "";
-    for (s = 1; s <= i - 1; s++) {
+    for (let s = 1; s <= i - 1; s++) {
         line = line + " ";
     }
-    for (j = 1; j <= 2 * (n - i) + 1; j++) {
+    for (let j = 1; j <= 2 * (n - i) + 1; j++) {
         line = line + "*";
     }
 
